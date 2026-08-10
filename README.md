@@ -1,3 +1,5 @@
+![CI](https://github.com/minhduc3105/K3-Day12-2A202601261-LaMinhDuc/actions/workflows/ci.yml/badge.svg)
+
 # K3 — Ngày 12: Hạ Tầng Cloud & Deployment (9h00–13h00)
 
 Đưa một AI agent từ `localhost:8000` lên một địa chỉ công khai mà người khác
