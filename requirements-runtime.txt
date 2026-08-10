@@ -1,0 +1,7 @@
+# Chỉ các package cần để chạy service trong production.
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+pydantic-settings>=2.2
+redis>=5.0
+python-dotenv>=1.0
