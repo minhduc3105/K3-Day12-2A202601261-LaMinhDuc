@@ -56,4 +56,4 @@ jobs:
       - name: Deploy
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
-        run: railway up --ci --service "${{ vars.RAILWAY_SERVICE }}"
+        run: railway up --ci --service "K3-Day12-2A202601261-LaMinhDuc"
